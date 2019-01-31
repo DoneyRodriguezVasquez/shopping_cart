@@ -1,0 +1,45 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "description": "Huawei Mate 10",
+      "price": 200,
+      "image": "HuaweiMate10.jpg"
+    },
+
+    {
+      "id": 2,
+      "description": "Huawei Mate 20",
+      "price": 660,
+      "image": "HuaweiMate20.jpg"
+    },
+
+    {
+      "id": 3,
+      "description": "Xiaomi Redmi Note 6 Pro",
+      "price": 190,
+      "image": "XiaomiRedmiNote6Pro.jpg"
+    },
+
+    {
+      "id": 4,
+      "description": "Samsung Galaxy J6",
+      "price": 185,
+      "image": "SamsungGalaxyJ6.jpg"
+    },
+
+    {
+      "id": 5,
+      "description": "Sony Xperia XZ2",
+      "price": 465,
+      "image": "SonyXperiaXZ2.jpg"
+    },
+
+    {
+      "id": 6,
+      "description": "Samsung Galaxy S9 Plus",
+      "price": 729,
+      "image": "SamsungGalaxyS9.jpg"
+    }
+  ]
+}

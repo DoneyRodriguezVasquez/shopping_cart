@@ -1,0 +1,15 @@
+.Content{
+  width: 90%;
+  margin: 0 auto;
+  text-align: center;
+}
+.ProductListing{
+  display: flex;
+  flex: 1;
+  flex-wrap: wrap;
+  flex-direction: row;
+}
+.ProductListing .ProductListItem{
+  padding: 10px 30px;
+  width: 200px;
+}
